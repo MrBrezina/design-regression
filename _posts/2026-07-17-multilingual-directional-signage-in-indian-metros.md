@@ -78,7 +78,7 @@ Delhi Metro, India’s largest and most comprehensive metro system, uses a bilin
 
 The following comparative table summarises the key characteristics identified across the nine metro systems.
 
-Consistent with the article’s primary focus on Devanagari, the Devanagari typeface for each of the nine metro systems has been [identified.](#sn:sn9). A typographic analysis of every corresponding Latin and regional script typeface, however, is beyond the scope of this study. Consequently, non-Devanagari typefaces are identified only under specific circumstances: when the information was officially provided; when it was readily available from public sources; or when the typeface choice itself is central to a key analytical point, as with Nagpur’s use of a single font family across all scripts.
+Consistent with the article’s primary focus on Devanagari, the Devanagari typeface for each of the nine metro systems has been [identified.](#sn:sn9) A typographic analysis of every corresponding Latin and regional script typeface, however, is beyond the scope of this study. Consequently, non-Devanagari typefaces are identified only under specific circumstances: when the information was officially provided; when it was readily available from public sources; or when the typeface choice itself is central to a key analytical point, as with Nagpur’s use of a single font family across all scripts.
 
 To clarify the analytical terminology used, the ‘Alignment’ column is defined as follows:
 
@@ -275,7 +275,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_4.jpg){: .grayscale}
 
-<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the <a href="https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.jpg">Wikimedia Commons</a>.</figcaption>
+<figcaption id="fig:f4"><strong>Figure 4:</strong> Bengaluru Metro (Namma Metro) signage before Devanagari was removed from the system. The photo is by రహ్మానుద్దీన్, licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license and it is available from the <a href="https://commons.wikimedia.org/wiki/File:Mahatma_Gandhi_road_Metro_station_bangalore.JPG">Wikimedia Commons</a>.</figcaption>
 
 ![](/assets/2026-07-17-multilingual-directional-signage-in-indian-metros/figure_5.jpg){: .grayscale}
 
@@ -344,7 +344,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn9">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
 
-<aside id="sn:sn9">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
+<aside id="sn:10">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
 
 <aside id="sn:sn11">Designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>).</aside>
 
