@@ -565,6 +565,8 @@ article main {
         font-feature-settings: "tnum"1, "zero"1;
         width: 100%;
         table-layout: fixed;
+        display: block;
+        overflow-x: auto;
 
         th {
             @include text-label;
