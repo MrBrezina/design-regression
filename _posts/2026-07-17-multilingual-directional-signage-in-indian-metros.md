@@ -344,7 +344,7 @@ These inconsistencies highlight the absence of standardised guidelines for Devan
 
 <aside id="sn:sn9">The study relied on the expertise of Fiona Ross (University of Reading) and Vaibhav Singh (Typeland), to identify Devanagari typefaces across the various networks. In the case of Ahmedabad, this analysis was supplemented by data provided directly by the metro authority.</aside>
 
-<aside id="sn:10">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
+<aside id="sn:sn10">Designed by Ek Type (see <a href="#ref:google-fonts-ek-type">Google Fonts, n.d.</a>).</aside>
 
 <aside id="sn:sn11">Designed by Indian Type Foundry (see <a href="#ref:adobe-fonts-itf">Adobe Fonts, n.d.</a>).</aside>
 
